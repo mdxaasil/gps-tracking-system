@@ -6,6 +6,10 @@
 
 This repository contains code for a GPS tracking system using TM4C123GH6PM TivaC Launchpad and SIM808. It leverages GNSS for location tracking and sends coordinates to an AWS server via HTTP GET requests.
 
+## Demo
+
+https://youtu.be/42goQ_c1EHM
+
 ## Structure
 
 ### 1. [Server Code](/server)
@@ -22,14 +26,8 @@ This repository contains code for a GPS tracking system using TM4C123GH6PM TivaC
 2. **Tiva C Setup:** Visit `/tiva_c` for TivaC Launchpad setup.
 3. **Run the System:** Power up the TivaC Launchpad for GPS tracking.
 
-## Contributions
-
-Contributions welcome! Follow [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Mention any libraries, frameworks, or individuals you'd like to acknowledge.
