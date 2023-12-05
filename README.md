@@ -20,14 +20,3 @@ https://youtu.be/42goQ_c1EHM
    - Captures GNSS data and communicates with SIM808.
    - See `/tiva_c` for hardware setup and configuration.
 
-## Getting Started
-
-1. **Server Setup:** Navigate to `/server` for AWS setup.
-2. **Tiva C Setup:** Visit `/tiva_c` for TivaC Launchpad setup.
-3. **Run the System:** Power up the TivaC Launchpad for GPS tracking.
-
-## License
-
-This project is licensed under [MIT License](LICENSE).
-
-
