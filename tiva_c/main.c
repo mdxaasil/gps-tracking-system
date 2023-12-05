@@ -24,7 +24,6 @@
 #include "DelayTimer.h"
 
 
-static char COMMAND[128];
 static char ReceivedData[512];
 static char str[128];
 
@@ -35,17 +34,6 @@ char *Substring(char *src, char *dst, int start, int stop);
 int SearchIndexOf(char src[], char str[]);
 char* itoa(int i, char b[]);
 void ftoa(float f,char *buf);
-
-#define Period  320000 //(16000000/50) 50Hz
-#define SERVO_STEPS         180     // Maximum amount of steps in degrees (180 is common)
-#define SERVO_MIN           9500     // The minimum duty cycle for this servo
-#define SERVO_MAX           35100    // The maximum duty cycle
-
-unsigned int servo_lut[SERVO_STEPS+1];
-
-
-
-
 
 void InitUART(void)
 {
