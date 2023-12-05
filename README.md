@@ -1,6 +1,6 @@
 # GPS Tracking System with TM4C123GH6PM TivaC Launchpad and SIM808
 
-![Project Image](image.png)
+![Project Image](image.jpg)
 
 ## Overview
 
