@@ -20,3 +20,8 @@ https://youtu.be/42goQ_c1EHM
    - Communicates with SIM808 via UART1 to capture GNSS data and send requests to server over GPRS.
    - See `/tiva_c` for hardware setup and configuration.
 
+## Additional Resources
+
+[Report](Report.pdf)
+[Code Composer Studio Project File](gps_tracker_projectfile.zip)
+[TivaWare Library](https://github.com/yuvadm/tiva-c)
