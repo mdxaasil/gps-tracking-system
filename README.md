@@ -17,6 +17,6 @@ https://youtu.be/42goQ_c1EHM
    - Follow setup instructions in `/server` for configuration.
 
 ### 2. [Tiva C Code](/tiva_c)
-   - Captures GNSS data and communicates with SIM808.
+   - Communicates with SIM808 via UART1 to capture GNSS data and send requests to server over GPRS.
    - See `/tiva_c` for hardware setup and configuration.
 
