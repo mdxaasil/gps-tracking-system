@@ -22,6 +22,6 @@ https://youtu.be/42goQ_c1EHM
 
 ## Additional Resources
 
-[Report](Report.pdf)
-[Code Composer Studio Project File](gps_tracker_projectfile.zip)
-[TivaWare Library](https://github.com/yuvadm/tiva-c)
+- [Report](Report.pdf)
+- [Code Composer Studio Project File](gps_tracker_projectfile.zip)
+- [TivaWare Library](https://github.com/yuvadm/tiva-c)
